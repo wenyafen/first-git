@@ -1,2 +1,2 @@
 hello.java git !!
-qwwwwwwwwwwww
+qwww
